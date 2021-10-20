@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @kriradevska
-- 🌱 I’m currently learning Full-Stack Engeneering on CodeCademy
+- 🌱 I’m currently learning Full-Stack Engeneering on Codecademy
 - 👩🏻‍🎓 Begginer in coding

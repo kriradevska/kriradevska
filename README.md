@@ -4,7 +4,7 @@
                                                                                                             
 ----
 <ul>                                                                                                            
-<li>🌱 I’m currently learning Front-End and Full-Stack Engeneering on <a href="https://codecademy.com/">Codecademy</a></li>
+<li>🌱 I’m currently learning Front-End and Full-Stack Engeneering on <a href="https://codecademy.com/" target="_blank">Codecademy</a></li>
 </ul>                                                                                                            
                                                                                                             
 ----

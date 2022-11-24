@@ -1,5 +1,5 @@
 <div>
-<img src=https://github.com/kriradevska/kriradevska/blob/main/Hi%20there!%20(1).jpg?raw=true" alt="Greeting" />    
+<img src="./banner.png" alt="Greeting" />    
 </div>
                                                                                                             
 ----
